@@ -41,4 +41,4 @@ As part of the project, I tested features such as:
 
 ### Environment
 > - Chrome Version 111 (64-bit)<br>
-> - Windows 10 Home
+> - Windows 10 Pro
